@@ -30,8 +30,8 @@
               "allowScroll": false,
               "displayName": "Chart",
               "iconSVG": "/static/media/icon.6adbe31e.svg",
-              "topRow": 18,
-              "bottomRow": 50,
+              "topRow": 13,
+              "bottomRow": 45,
               "parentRowSpace": 10,
               "type": "CHART_WIDGET",
               "hideCard": false,
@@ -44,7 +44,7 @@
               "animateLoading": true,
               "parentColumnSpace": 20.15625,
               "dynamicTriggerPathList": [],
-              "leftColumn": 17,
+              "leftColumn": 25,
               "dynamicBindingPathList": [
                 {
                   "key": "chartData.41mgz4x0ay.data"
@@ -76,7 +76,7 @@
                 }
               },
               "key": "rp9za5z0m5",
-              "rightColumn": 41,
+              "rightColumn": 49,
               "widgetId": "s92xdhqiwf",
               "isVisible": true,
               "version": 1,
@@ -138,8 +138,8 @@
               "allowScroll": false,
               "displayName": "Chart",
               "iconSVG": "/static/media/icon.6adbe31e.svg",
-              "topRow": 18,
-              "bottomRow": 50,
+              "topRow": 13,
+              "bottomRow": 45,
               "parentRowSpace": 10,
               "type": "CHART_WIDGET",
               "hideCard": false,
@@ -152,7 +152,7 @@
               "animateLoading": true,
               "parentColumnSpace": 20.15625,
               "dynamicTriggerPathList": [],
-              "leftColumn": 17,
+              "leftColumn": 25,
               "dynamicBindingPathList": [
                 {
                   "key": "chartData.41mgz4x0ay.data"
@@ -184,7 +184,7 @@
                 }
               },
               "key": "rp9za5z0m5",
-              "rightColumn": 41,
+              "rightColumn": 49,
               "widgetId": "s92xdhqiwf",
               "isVisible": true,
               "version": 1,
