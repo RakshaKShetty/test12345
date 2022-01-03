@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "publishedDefaultPageName": "Page1",
-  "unpublishedDefaultPageName": "Page1",
+  "publishedDefaultPageName": "Raksha_Page1",
+  "unpublishedDefaultPageName": "Raksha_Page1",
   "actionCollectionList": [],
   "editModeTheme": {
     "name": "Classic",
@@ -15,6 +15,14 @@
     "deleted": false,
     "policies": []
   },
-  "publishedLayoutmongoEscapedWidgets": {},
-  "unpublishedLayoutmongoEscapedWidgets": {}
+  "publishedLayoutmongoEscapedWidgets": {
+    "Raksha_Page1": [
+      "Table1"
+    ]
+  },
+  "unpublishedLayoutmongoEscapedWidgets": {
+    "Raksha_Page1": [
+      "Table1"
+    ]
+  }
 }
