@@ -2,6 +2,7 @@
   "version": 1,
   "publishedDefaultPageName": "Raksha_Page1",
   "unpublishedDefaultPageName": "Raksha_Page1",
+  "actionCollectionList": [],
   "editModeTheme": {
     "name": "Classic",
     "isSystemTheme": true,
