@@ -335,7 +335,7 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "61d2d7c9d6b2392bcd4d3561",
+              "id": "61d2d3f7d6b2392bcd4d3505",
               "name": "Bindittotable",
               "pluginType": "DB",
               "jsonPathKeys": [],
@@ -694,7 +694,7 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "61d2d7c9d6b2392bcd4d3561",
+              "id": "61d2d3f7d6b2392bcd4d3505",
               "name": "Bindittotable",
               "pluginType": "DB",
               "jsonPathKeys": [],
