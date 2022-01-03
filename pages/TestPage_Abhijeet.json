@@ -44,7 +44,7 @@
               "animateLoading": true,
               "parentColumnSpace": 20.15625,
               "dynamicTriggerPathList": [],
-              "leftColumn": 25,
+              "leftColumn": 11,
               "dynamicBindingPathList": [
                 {
                   "key": "chartData.41mgz4x0ay.data"
@@ -152,7 +152,7 @@
               "animateLoading": true,
               "parentColumnSpace": 20.15625,
               "dynamicTriggerPathList": [],
-              "leftColumn": 25,
+              "leftColumn": 11,
               "dynamicBindingPathList": [
                 {
                   "key": "chartData.41mgz4x0ay.data"
