@@ -8,7 +8,7 @@
         "dsl": {
           "widgetName": "MainContainer",
           "backgroundColor": "none",
-          "rightColumn": 816,
+          "rightColumn": 1936,
           "snapColumns": 64,
           "detachFromLayout": true,
           "widgetId": "0",
@@ -20,7 +20,7 @@
           "type": "CANVAS_WIDGET",
           "canExtend": true,
           "version": 49,
-          "minHeight": 1292,
+          "minHeight": 1220,
           "parentColumnSpace": 1,
           "dynamicTriggerPathList": [],
           "dynamicBindingPathList": [],
@@ -329,6 +329,30 @@
                 "step": 62,
                 "status": 75
               }
+            },
+            {
+              "isMirrored": true,
+              "widgetName": "Camera1",
+              "rightColumn": 36,
+              "isCanvas": false,
+              "displayName": "Camera",
+              "iconSVG": "/static/media/icon.79c0d6de.svg",
+              "widgetId": "ra2tcx0744",
+              "topRow": 45,
+              "bottomRow": 78,
+              "parentRowSpace": 10,
+              "isVisible": true,
+              "type": "CAMERA_WIDGET",
+              "version": 1,
+              "hideCard": false,
+              "parentId": "0",
+              "mode": "CAMERA",
+              "renderMode": "CANVAS",
+              "isLoading": false,
+              "parentColumnSpace": 30.0625,
+              "leftColumn": 11,
+              "isDisabled": false,
+              "key": "w3dw07xuc5"
             }
           ]
         },
@@ -344,6 +368,7 @@
           ]
         ],
         "widgetNames": [
+          "Camera1",
           "MainContainer",
           "Table1"
         ],
@@ -367,7 +392,7 @@
         "dsl": {
           "widgetName": "MainContainer",
           "backgroundColor": "none",
-          "rightColumn": 816,
+          "rightColumn": 1936,
           "snapColumns": 64,
           "detachFromLayout": true,
           "widgetId": "0",
@@ -379,7 +404,7 @@
           "type": "CANVAS_WIDGET",
           "canExtend": true,
           "version": 49,
-          "minHeight": 1292,
+          "minHeight": 1220,
           "parentColumnSpace": 1,
           "dynamicTriggerPathList": [],
           "dynamicBindingPathList": [],
@@ -688,6 +713,30 @@
                 "step": 62,
                 "status": 75
               }
+            },
+            {
+              "isMirrored": true,
+              "widgetName": "Camera1",
+              "rightColumn": 36,
+              "isCanvas": false,
+              "displayName": "Camera",
+              "iconSVG": "/static/media/icon.79c0d6de.svg",
+              "widgetId": "ra2tcx0744",
+              "topRow": 45,
+              "bottomRow": 78,
+              "parentRowSpace": 10,
+              "isVisible": true,
+              "type": "CAMERA_WIDGET",
+              "version": 1,
+              "hideCard": false,
+              "parentId": "0",
+              "mode": "CAMERA",
+              "renderMode": "CANVAS",
+              "isLoading": false,
+              "parentColumnSpace": 30.0625,
+              "leftColumn": 11,
+              "isDisabled": false,
+              "key": "w3dw07xuc5"
             }
           ]
         },
@@ -703,6 +752,7 @@
           ]
         ],
         "widgetNames": [
+          "Camera1",
           "MainContainer",
           "Table1"
         ],
