@@ -1,87 +1,81 @@
 {
   "unpublishedPage": {
-    "name": "Page1",
-    "slug": "page1",
+    "name": "Raksha_CRUD",
+    "slug": "raksha-crud",
     "layouts": [
       {
         "viewMode": false,
         "dsl": {
           "widgetName": "MainContainer",
           "backgroundColor": "none",
-          "rightColumn": 816,
+          "rightColumn": 1224,
           "snapColumns": 64,
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 5010,
+          "bottomRow": 700,
           "containerStyle": "none",
-          "snapRows": 125,
+          "snapRows": 70,
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
           "version": 49,
-          "minHeight": 1292,
+          "minHeight": 710,
           "parentColumnSpace": 1,
-          "dynamicTriggerPathList": [],
           "dynamicBindingPathList": [],
           "leftColumn": 0,
           "children": []
         },
         "layoutOnLoadActions": [],
-        "widgetNames": [
-          "MainContainer"
-        ],
         "validOnPageLoadActions": true,
-        "id": "Page1",
+        "id": "Raksha_CRUD",
         "deleted": false,
         "policies": [],
         "userPermissions": []
       }
     ],
     "userPermissions": [],
-    "policies": []
+    "policies": [],
+    "isHidden": false
   },
   "publishedPage": {
-    "name": "Page1",
-    "slug": "page1",
+    "name": "Raksha_CRUD",
+    "slug": "raksha-crud",
     "layouts": [
       {
         "viewMode": false,
         "dsl": {
           "widgetName": "MainContainer",
           "backgroundColor": "none",
-          "rightColumn": 816,
+          "rightColumn": 1224,
           "snapColumns": 64,
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 5010,
+          "bottomRow": 700,
           "containerStyle": "none",
-          "snapRows": 125,
+          "snapRows": 70,
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
           "version": 49,
-          "minHeight": 1292,
+          "minHeight": 710,
           "parentColumnSpace": 1,
-          "dynamicTriggerPathList": [],
           "dynamicBindingPathList": [],
           "leftColumn": 0,
           "children": []
         },
         "layoutOnLoadActions": [],
-        "widgetNames": [
-          "MainContainer"
-        ],
         "validOnPageLoadActions": true,
-        "id": "Page1",
+        "id": "Raksha_CRUD",
         "deleted": false,
         "policies": [],
         "userPermissions": []
       }
     ],
     "userPermissions": [],
-    "policies": []
+    "policies": [],
+    "isHidden": false
   },
   "deleted": false,
   "policies": [],
@@ -89,5 +83,5 @@
     "read:pages",
     "manage:pages"
   ],
-  "gitSyncId": "61d2d17bd6b2392bcd4d34e0_61d2d17bd6b2392bcd4d34e2"
+  "gitSyncId": "61d2d29fd6b2392bcd4d34ec_61d2d430d6b2392bcd4d3508"
 }
